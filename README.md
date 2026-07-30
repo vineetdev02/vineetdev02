@@ -7,7 +7,7 @@ I build scalable web applications, AI products, and modern SaaS applications usi
 ## 🚀 Featured Projects
 
 ### 🎮 ActionGames.io
-Play 800+ free HTML5 browser games instantly. No downloads. No installation.
+Play thousands+ free HTML5 browser games instantly. No downloads. No installation.
 
 🌐 https://actiongames.io
 
