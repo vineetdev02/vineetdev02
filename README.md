@@ -4,19 +4,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Vineet%20Bhatti&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Products%20%C2%B7%20SaaS&descAlignY=55&descSize=18" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=6%2B+years+building+production+web+apps;Shipping+AI+products+solo+%F0%9F%A4%96;Real-time+systems+%C2%B7+payments+%C2%B7+scale;Turning+ideas+into+real+products+%E2%9C%A8" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F2328&center=true&vCenter=true&width=650&lines=6%2B+years+building+production+web+apps;Shipping+AI+products+solo+%F0%9F%A4%96;Real-time+systems+%C2%B7+payments+%C2%B7+scale;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&height=40&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=6%2B+years+building+production+web+apps;Shipping+AI+products+solo+%F0%9F%A4%96;Real-time+systems+%C2%B7+payments+%C2%B7+scale;Turning+ideas+into+real+products+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&height=40&duration=3000&pause=800&color=1F2328&center=true&vCenter=true&width=650&lines=6%2B+years+building+production+web+apps;Shipping+AI+products+solo+%F0%9F%A4%96;Real-time+systems+%C2%B7+payments+%C2%B7+scale;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
 </picture>
-
-<br/>
 
 <a href="https://actiongames.io"><img src="https://img.shields.io/badge/Website-actiongames.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vineet-bhatti-935703216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/vineetCodes"><img src="https://img.shields.io/badge/X-@vineetCodes-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.npmjs.com/~vindev02"><img src="https://img.shields.io/badge/npm-vindev02-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-
-<br/><br/>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=vineetdev02&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/vineetdev02?style=flat-square&color=6366F1&labelColor=1a1b27&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-EC4899?style=flat-square&labelColor=1a1b27" />
@@ -129,40 +125,47 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 
 <div align="center">
 
-**Languages & Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,redux,tailwind,mui,bootstrap" />
-
-**Mobile**
-
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,php,laravel,python" />
-<br/>
-<img src="https://img.shields.io/badge/Yii2-40B3E0?style=for-the-badge&logo=yii&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-**Databases & ORMs**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,sequelize" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman,jest,linux" />
-
-**Integrations & Infra**
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-DA3B01?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+<table>
+<tr>
+<td align="right"><b>&nbsp;Frontend&nbsp;</b></td>
+<td><img height="38" src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,redux,tailwind,mui,bootstrap&perline=11" /></td>
+</tr>
+<tr>
+<td align="right"><b>&nbsp;Mobile&nbsp;</b></td>
+<td>
+<img height="26" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img height="26" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>&nbsp;Backend&nbsp;</b></td>
+<td>
+<img height="38" src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,php,laravel,python&perline=7" />
+&nbsp;
+<img height="26" src="https://img.shields.io/badge/Yii2-40B3E0?style=for-the-badge&logo=yii&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>&nbsp;Databases&nbsp;</b></td>
+<td><img height="38" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,sequelize&perline=6" /></td>
+</tr>
+<tr>
+<td align="right"><b>&nbsp;DevOps&nbsp;</b></td>
+<td><img height="38" src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman,jest,linux&perline=8" /></td>
+</tr>
+<tr>
+<td align="right"><b>&nbsp;Integrations&nbsp;</b></td>
+<td>
+<img height="26" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/BullMQ-DA3B01?style=for-the-badge&logo=redis&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img height="26" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/OpenRouter-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
