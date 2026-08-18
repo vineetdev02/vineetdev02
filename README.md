@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&height=40&duration=3000&pause=800&color=1F2328&center=true&vCenter=true&width=650&lines=6%2B+years+building+production+web+apps;Shipping+AI+products+solo+%F0%9F%A4%96;Real-time+systems+%C2%B7+payments+%C2%B7+scale;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
 </picture>
 
-<a href="https://actiongames.io"><img src="https://img.shields.io/badge/Website-actiongames.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/vineet-bhatti-935703216"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/vineetCodes"><img src="https://img.shields.io/badge/X-@vineetCodes-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.npmjs.com/~vindev02"><img src="https://img.shields.io/badge/npm-vindev02-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
@@ -39,7 +38,7 @@ const vineet = {
     "performance & clean architecture",
   ],
 
-  building:   ["ActionGames.io", "Dopamind", "VibeGF"],
+  building:   ["Dopamind", "VibeGF"],
   shipped:    ["QPER Health", "AWGRO", "critpath", "lockreview"],
   currently:  "Experimenting with AI, turning ideas into real products",
 };
@@ -55,17 +54,6 @@ const vineet = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 ActionGames.io
-
-A browser gaming platform with **thousands of free HTML5 games** — no downloads, no installs, just click and play.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis" height="32" />
-
-<a href="https://actiongames.io"><img src="https://img.shields.io/badge/Visit%20Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 VibeGF
 
 **AI character chat platform, built solo and shipped.** 100+ characters, real-time SSE token streaming, multi-provider AI, atomic coin economy, 5 background workers.
@@ -75,8 +63,6 @@ A browser gaming platform with **thousands of free HTML5 games** — no download
 <a href="https://vibegf.ai"><img src="https://img.shields.io/badge/vibegf.ai-EC4899?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Dopamind
@@ -88,6 +74,8 @@ A privacy-focused app to **quit porn, build healthier digital habits, and regain
 <img src="https://img.shields.io/badge/Privacy%20First-10B981?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🩺 QPER Health
@@ -98,6 +86,8 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 
 <a href="https://qper.health"><img src="https://img.shields.io/badge/qper.health-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 <tr>
@@ -202,7 +192,6 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 |---|---|
 | 💼 &nbsp;**LinkedIn** | [vineet-bhatti](https://linkedin.com/in/vineet-bhatti-935703216) |
 | 𝕏 &nbsp;**X / Twitter** | [@vineetCodes](https://x.com/vineetCodes) |
-| 🌐 &nbsp;**Website** | [actiongames.io](https://actiongames.io) |
 | 📦 &nbsp;**npm** | [vindev02](https://www.npmjs.com/~vindev02) |
 | ✉️ &nbsp;**Email** | [vineetbhatti619@gmail.com](mailto:vineetbhatti619@gmail.com) |
 
