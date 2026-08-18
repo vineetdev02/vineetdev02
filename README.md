@@ -88,6 +88,15 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 
 </td>
 <td width="50%" valign="top">
+
+### 🏠 Awgro
+
+**Real estate marketplace + built-in CRM.** Public property portal (web + mobile via Capacitor), a role-based admin panel with a full Leads CRM, and a federated **GraphQL + REST** microservice API. Bulk Excel import/export, per-field audit logs, TOTP 2FA.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,graphql,mysql" height="32" />
+
+<img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=for-the-badge&logo=buildkite&logoColor=white" />
+
 </td>
 </tr>
 <tr>
@@ -125,6 +134,7 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 <td>
 <img height="26" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img height="26" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -152,6 +162,7 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 <img height="26" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img height="26" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img height="26" src="https://img.shields.io/badge/OpenRouter-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img height="26" src="https://img.shields.io/badge/MailerSend-2E7CF6?style=for-the-badge&logo=maildotru&logoColor=white" />
 <img height="26" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </td>
 </tr>
@@ -193,7 +204,6 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 | 💼 &nbsp;**LinkedIn** | [vineet-bhatti](https://linkedin.com/in/vineet-bhatti-935703216) |
 | 𝕏 &nbsp;**X / Twitter** | [@vineetCodes](https://x.com/vineetCodes) |
 | 📦 &nbsp;**npm** | [vindev02](https://www.npmjs.com/~vindev02) |
-| ✉️ &nbsp;**Email** | [vineetbhatti619@gmail.com](mailto:vineetbhatti619@gmail.com) |
 
 <br/>
 
