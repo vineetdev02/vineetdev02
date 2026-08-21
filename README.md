@@ -39,7 +39,7 @@ const vineet = {
   ],
 
   building:   ["Dopamind", "VibeGF"],
-  shipped:    ["QPER Health", "AWGRO", "critpath", "lockreview"],
+  shipped:    ["QPER Health", "AWGRO", "Arehna", "Car Rental", "…& more"],
   currently:  "Experimenting with AI, turning ideas into real products",
 };
 ```
@@ -60,7 +60,7 @@ const vineet = {
 
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma,redis" height="32" />
 
-<a href="https://vibegf.ai"><img src="https://img.shields.io/badge/vibegf.ai-EC4899?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/AI%20Character%20Chat-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +91,7 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 
 ### 🏠 Awgro
 
-**Real estate marketplace + built-in CRM.** Public property portal (web + mobile via Capacitor), a role-based admin panel with a full Leads CRM, and a federated **GraphQL + REST** microservice API. Bulk Excel import/export, per-field audit logs, TOTP 2FA.
+**Real estate ERP + CRM.** Public property portal (web + mobile via Capacitor) plus a robust role-based admin — full **Leads CRM**, property & project data management, **revenue tracking** and analytics. Federated **GraphQL + REST** microservices, bulk Excel import/export, per-field audit logs, TOTP 2FA.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,graphql,mysql" height="32" />
 
@@ -115,6 +115,41 @@ Large-scale healthcare platform — **GraphQL APIs for web, REST for iOS**, Stri
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ══════════════════ ALSO BUILT ══════════════════ -->
+
+## 🧰 &nbsp;Also Built — Client & Admin Panels
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🏗️ Arehna
+
+**Construction site management.** Admin panel for sites, workforce & daily progress tracking.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" height="28" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🚗 Car Rental & Travels
+
+**Booking + fleet admin.** Vehicles, reservations & customer management in one dashboard.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" height="28" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub><i>…and many more freelance & client projects — this is just a slice. ✨</i></sub>
+
+</div>
 
 <br/>
 
